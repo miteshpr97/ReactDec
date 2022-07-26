@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction:row;
+  color: rgb(231, 23, 93);
+ 
+ 
+}
+
+.cardfirst {
+  display: flex;
+  flex-direction: row;
+  color: red;
+
+}

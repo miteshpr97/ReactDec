@@ -1,0 +1,8 @@
+.App-container {
+    display: flex;
+    margin: auto;
+    width: 600px;
+    height: 300px;
+    box-shadow: 0px 3px 5px black;
+    margin-top: 10px;
+}

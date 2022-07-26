@@ -1,0 +1,19 @@
+.container {
+  background-color: azure;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+
+
+}
+
+.row {
+    display: flex;
+  }
+  
+  .button {
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+  }
+  
